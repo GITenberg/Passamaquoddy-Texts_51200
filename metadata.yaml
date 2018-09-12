@@ -1,0 +1,27 @@
+_repo: Passamaquoddy-Texts_51200
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Prince, John Dyneley
+    alias: Prince, J. Dyneley (John Dyneley)
+    birthdate: 1868
+    deathdate: 1945
+    gutenberg_agent_id: '46290'
+    url: http://www.gutenberg.org/2009/agents/46290
+description: ''
+gutenberg_issued: '2016-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51200'
+  lccn: '22021840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Passamaquoddy language -- Texts'
+- !lcsh 'Passamaquoddy Indians -- Folklore'
+- !lcc 'PM'
+- GITenberg
+title: Passamaquoddy Texts
+url: http://www.gutenberg.org/ebooks/51200
