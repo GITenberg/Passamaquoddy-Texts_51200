@@ -1,5 +1,5 @@
 _repo: Passamaquoddy-Texts_51200
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Prince, John Dyneley
@@ -8,7 +8,12 @@ contributor:
     deathdate: 1945
     gutenberg_agent_id: '46290'
     url: http://www.gutenberg.org/2009/agents/46290
+covers:
+- cover_type: archival
+  image_path: 51200-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51200#Passamaquoddy-Texts
 gutenberg_issued: '2016-02-13'
 gutenberg_type: Text
 identifiers:
